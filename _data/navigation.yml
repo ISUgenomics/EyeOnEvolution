@@ -2,10 +2,6 @@
 main:
   - title: "About"
     url: /about.html
-  - title: "Tutorial Index"
-    url: /list.html
-  - title: "Contributing"
-    url: /Contributing.html
   - title: "People"
     url: /people.html
 
