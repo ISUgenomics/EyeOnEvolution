@@ -83,8 +83,33 @@ wget  ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/194/135/GCF_001194135.1_Oct
 wget  ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/194/135/GCF_001194135.1_Octopus_bimaculoides_v2_0/GCF_001194135.1_Octopus_bimaculoides_v2_0_genomic.gff.gz
 
 #Mytilus galloprovincialis (Mediterranean mussel)
-wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/676/915/GCA_001676915.1_ASM167691v1/GCA_001676915.1_ASM167691v1_genomic.fna.gz
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCAM/001/676/915/GCA_001676915.1_ASM167691v1/GCA_001676915.1_ASM167691v1_genomic.fna.gz
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/676/915/GCA_001676915.1_ASM167691v1/GCA_001676915.1_ASM167691v1_genomic.gff.gz
 
 
 ```
+
+
+## Table of publically available genomes from six pteriomorphian bivalves and one gastropod.
+
+| Species | Eye type | Genome Size (est) | Total nt content (Mb) | # of Scaffolds | N50 (Kb) | Missing BUSCO | Transcriptomic data | publication|
+| --|--|--|--|--|--|--|--| --|
+| [C_virginica V3](https://www.ncbi.nlm.nih.gov/assembly/GCF_002022765.2) | No eyes | 675? | 684 | 11 | 75,944 | --- | --- | |
+|[Pinctada imbricata (Akoya pearl oyster)](https://www.ncbi.nlm.nih.gov/assembly/GCA_002216045.1) | ? | ? | 991| 5,039| 59,032| ? | ? |[publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5597905/)|
+|[Pomacea canaliculata](https://www.ncbi.nlm.nih.gov/assembly/GCF_003073045.1)|?|?| 440|24| 31,431| ?|?|[publication](https://academic.oup.com/gigascience/article/7/9/giy101/5069392)
+|[Biomphalaria glabrata (bloodfluke planorb)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000457365.1)|?|?|916|331,401|48|?|?| --|
+|[Aplysia californica (California sea hare)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000002075.1)|Yes|?|927|4,332|917|?|?| --|
+| [Crassostrea gigas (Pacific oyster)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000297895.1) | No eyes | 637 | 557 | 7,658 | 401 | 36 (3.7%) | M, A, L | [publication](http://dx.doi.org/10.1038/nature11413)
+|[Lottia gigantea (owl limpet)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000327385.1)| ?|?|359|4,469| 1,870|?|?| [publication](https://www.nature.com/articles/nature11696)|
+|[Octopus bimaculoides (cephalopods)](https://www.ncbi.nlm.nih.gov/assembly/GCF_001194135.1)|Yes|?|2,338| 151,674|475|?|?|[publication](https://www.nature.com/articles/nature14668)
+| [Mytilus galloprovincialis (Mediterranean mussel)](https://www.ncbi.nlm.nih.gov/assembly/GCA_001676915.1) | No eyes | 1,600 | 1,500 | 1,002,334 | 3 | 506 (51.7%) | M, A | [publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151561)
+
+| Bathymodiolus platifrons | No eyes | 1,640 | 1,658 | 65,662 | 343 | 38 (3.9%) | M, A |
+| Modiolus philippinarum | No eyes | 2,380 | 2,629 | 74,573 | 100 | 51 (5.2%) | M, A |
+| Mizhuopecten yessoensis | Mirror | 1,430 | 988 | 82,658 | 803 | 42 (4.4%) | M, A, E, L |
+| Haliotis rufescens | N/A | 1,800 | 1502 | 8,405 | 1,898 | 34 (3.5%) | ??? |
+
+This table needs updating.
+
+
+Left off on ASM163272v1 (still need to do)
