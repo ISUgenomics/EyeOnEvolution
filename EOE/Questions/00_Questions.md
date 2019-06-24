@@ -1,4 +1,12 @@
-# Questions
+---
+title:  List of questions we are seeking to answer
+layout: single
+author: Andrew Severin
+author_profile: true
+header:
+  overlay_color: "444444"
+  overlay_image: /assets/images/Scallop_eyes_banner.jpg
+---
 
 This section are both for questions we aim to answer in our grant and other questions that we may be able to answer given the data available and the data we will collect.
 

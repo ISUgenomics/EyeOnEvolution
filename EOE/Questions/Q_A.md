@@ -1,3 +1,13 @@
+---
+title:  Answer to Question A
+layout: single
+author: Andrew Severin
+author_profile: true
+header:
+  overlay_color: "444444"
+  overlay_image: /assets/images/Scallop_eyes_banner.jpg
+---
+
 ##  What data is currently available in NCBI related to Mollusks?
 
 Let's start with a search of NCBI for the term [Mollusca](https://www.ncbi.nlm.nih.gov/assembly/?term=Mollusca).

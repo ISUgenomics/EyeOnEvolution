@@ -1,3 +1,13 @@
+---
+title:  Exploring phototransductive pathways in eyed and non-eyed species
+layout: single
+author: Andrew Severin
+author_profile: true
+header:
+  overlay_color: "444444"
+  overlay_image: /assets/images/Scallop_eyes_banner.jpg
+---
+
 # Proposal
 
 ### Description of project

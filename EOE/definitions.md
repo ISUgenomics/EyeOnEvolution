@@ -1,4 +1,12 @@
-# Definitions of key words
+---
+title:  Definitions of key words
+layout: single
+author: Andrew Severin
+author_profile: true
+header:
+  overlay_color: "444444"
+  overlay_image: /assets/images/Scallop_eyes_banner.jpg
+---
 
 **Exaptation:** a trait whose current function differs from its original function
   * feathers [Prum & Brush 2002](https://www.journals.uchicago.edu/doi/abs/10.1086/341993)
