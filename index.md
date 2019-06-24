@@ -10,18 +10,18 @@ feature_row:
   - title: "Exploring phototransductive pathways in eyed and non-eyed species"
     image_path: /assets/images/Scallop_eyes2.jpg
     alt: "Programs"
-    url: "EOE/phototransductionProject_landingPage.md"
+    url: "EOE/phototransductionProject_landingPage"
     btn_label: "Learn More"
 
   - title: "White abalone genome assembly"
     image_path: /assets/images/assembly.jpg
     alt: "Project Management"
-    url: "/whiteabalone/whiteAbalone_landingPage.md"
+    url: "/whiteabalone/whiteAbalone_landingPage"
     btn_label: "Learn More"
 
 ---
 
-
+EOE/phototransductionProject_landingPage.md
 
 
 {% include feature_row id="intro" type="center" %}
