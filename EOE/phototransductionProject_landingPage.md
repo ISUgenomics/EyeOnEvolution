@@ -13,7 +13,7 @@ We propose to use eyes and light-sensitive tissues as a model to understand the 
 
 ## Links to different parts of the project.
 
-  * [More complete description of the project](EOE/proposalDescription.md)
-  * [Assumptions for the project](EOE/assumptions.md)
-  * [Useful Definitions](EOE/definitions.md)
-  * [Questions and answers we can ask with the data](EOE/Questions/00_Questions.md)
+  * [More complete description of the project](proposalDescription.md)
+  * [Assumptions for the project](assumptions.md)
+  * [Useful Definitions](definitions.md)
+  * [Questions and answers we can ask with the data](Questions/00_Questions.md)
