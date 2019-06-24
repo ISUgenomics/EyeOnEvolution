@@ -103,13 +103,3 @@ wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/676/915/GCA_001676915.1_ASM1
 |[Lottia gigantea (owl limpet)](https://www.ncbi.nlm.nih.gov/assembly/GCF_000327385.1)| ?|?|359|4,469| 1,870|?|?| [publication](https://www.nature.com/articles/nature11696)|
 |[Octopus bimaculoides (cephalopods)](https://www.ncbi.nlm.nih.gov/assembly/GCF_001194135.1)|Yes|?|2,338| 151,674|475|?|?|[publication](https://www.nature.com/articles/nature14668)
 | [Mytilus galloprovincialis (Mediterranean mussel)](https://www.ncbi.nlm.nih.gov/assembly/GCA_001676915.1) | No eyes | 1,600 | 1,500 | 1,002,334 | 3 | 506 (51.7%) | M, A | [publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0151561)
-
-| Bathymodiolus platifrons | No eyes | 1,640 | 1,658 | 65,662 | 343 | 38 (3.9%) | M, A |
-| Modiolus philippinarum | No eyes | 2,380 | 2,629 | 74,573 | 100 | 51 (5.2%) | M, A |
-| Mizhuopecten yessoensis | Mirror | 1,430 | 988 | 82,658 | 803 | 42 (4.4%) | M, A, E, L |
-| Haliotis rufescens | N/A | 1,800 | 1502 | 8,405 | 1,898 | 34 (3.5%) | ??? |
-
-This table needs updating.
-
-
-Left off on ASM163272v1 (still need to do)
