@@ -19,4 +19,4 @@ This section are both for questions we aim to answer in our grant and other ques
 ## Other questions
 
 
-A) [  What data is currently available in NCBI related to Mollusks?](EOE/Questions/Q_A.md)
+A) [  What data is currently available in NCBI related to Mollusks?](Questions/Q_A.md)
