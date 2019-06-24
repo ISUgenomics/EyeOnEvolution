@@ -13,15 +13,8 @@ feature_row:
     url: "EOE/phototransductionProject_landingPage"
     btn_label: "Learn More"
 
-  - title: "White abalone genome assembly"
-    image_path: /assets/images/assembly.jpg
-    alt: "Project Management"
-    url: "/whiteabalone/whiteAbalone_landingPage"
-    btn_label: "Learn More"
-
 ---
 
-EOE/phototransductionProject_landingPage.md
 
 
 {% include feature_row id="intro" type="center" %}
